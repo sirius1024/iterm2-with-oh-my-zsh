@@ -217,3 +217,6 @@ vi ~/.zshrc
 
 ![ImageInitIterm](https://raw.githubusercontent.com/sirius1024/pubimgs/master/blogs/iterm2/16.png)
 
+有同学说补全命令的字体不太清晰，与背景颜色太过相近，其实可以自己调整一下字体颜色。
+
+Preferences -> Profiles -> Colors 中有Foreground是标准字体颜色，ANSI Colors中Bright的第一个是补全的字体颜色。
