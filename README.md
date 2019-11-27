@@ -195,7 +195,8 @@ source ~/.zshrc
 
 背景图片取自微软Surface Studio的4K壁纸(将近12MB大小)，非常漂亮，需要的可以自取：
 
-https://pan.baidu.com/s/18jNrULbr05npD0Z_ht28Kg
+https://pan.baidu.com/s/1LKd4ghGyyNI6UwHhOHvfaA
+提取码: snrd
 
 更换背景图片方式：iTerm2 -> Preferences -> Profiles -> Window -> BackGround Image勾选图片即可。
 
