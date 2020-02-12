@@ -64,6 +64,9 @@ oh-my-zsh开源地址：https://github.com/robbyrussell/oh-my-zsh
 
 ### 安装PowerLine
 
+Powerline是agnoster主题的依赖。具体可以在repo里查询到：
+https://github.com/agnoster/agnoster-zsh-theme
+
 powerline官网：http://powerline.readthedocs.io/en/latest/installation.html
 
 安装powerline的方式依然简单，也只需要一条命令：
