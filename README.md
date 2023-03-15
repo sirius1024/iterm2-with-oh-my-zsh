@@ -196,7 +196,7 @@ source ~/.zshrc
 
 ![ImageInitIterm](https://raw.githubusercontent.com/sirius1024/pubimgs/master/blogs/iterm2/14.png)
 
-背景图片取自微软Surface Studio的4K壁纸(将近12MB大小)，非常漂亮，需要的可以自取：
+背景图片取自微软Surface Studio的4K壁纸，非常漂亮，需要的可以自取：
 
 [https://pan.baidu.com/s/1LKd4ghGyyNI6UwHhOHvfaA
 提取码: snrd](https://pan.baidu.com/s/1liiy5KwrqoZsRL2Z_rLs4A?pwd=5uf3)
