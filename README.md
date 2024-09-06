@@ -205,7 +205,7 @@ source ~/.zshrc
 
 #### 可选择、命令补全
 
-跟代码高亮的安装方式一样，这也是一个zsh的插件，叫做zsh-autosuggestion，用于命令建议和补全。
+跟代码高亮的安装方式一样，这也是一个zsh的插件，叫做zsh-autosuggestions，用于命令建议和补全。
 
 ```bash
 cd ~/.oh-my-zsh/custom/plugins/
